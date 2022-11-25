@@ -5,4 +5,4 @@
 ## git init
 * This one is probably the most used Git command. After changes are done locally, you can save them by “committing” them.
 ## git push
-*Git push will push the locally committed changes to the remote branch.
+* Git push will push the locally committed changes to the remote branch.
